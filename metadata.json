@@ -1,0 +1,6 @@
+{
+  "name": "0 TO 8848 — Global Adventure Verification & Credential Platform",
+  "description": "Evidence-based global adventure achievement recognition, GPX & cryptographic verification workflow, 100 featured destinations from 0m to 8848m, public credential verification, and MRS v1.0 governance system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
